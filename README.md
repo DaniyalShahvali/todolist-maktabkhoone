@@ -4,8 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Stars](https://img.shields.io/github/stars/USERNAME/todolist-maktabkhoone-?style=social)](https://github.com/DaniyalShahvali/todolist-maktabkhoone-/stargazers)  
-[![Forks](https://img.shields.io/github/forks/USERNAME/todolist-maktabkhoone-?style=social)](https://github.com/DaniyalShahvali/todolist-maktabkhoone-/network/members)
+
 
 ---
 
@@ -24,7 +23,6 @@
 - 💾 **ذخیره خودکار در فایل CSV**  
 - 🔄 **بارگذاری خودکار از فایل CSV**  
 - ⚡ **تعیین اولویت برای هر کار (بالا، متوسط، پایین)**  
-
 ---
 
 ## 🧩 ساختار برنامه  
@@ -39,8 +37,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Stars](https://img.shields.io/github/stars/USERNAME/todolist-maktabkhoone-?style=social)](https://github.com/DaniyalShahvali/todolist-maktabkhoone-/stargazers)  
-[![Forks](https://img.shields.io/github/forks/USERNAME/todolist-maktabkhoone-?style=social)](https://github.com/DaniyalShahvali/todolist-maktabkhoone-/network/members)
 
 ---
 
