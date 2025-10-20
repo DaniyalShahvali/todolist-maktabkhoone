@@ -4,8 +4,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Stars](https://img.shields.io/github/stars/USERNAME/todolist-maktabkhoone-?style=social)](https://github.com/USERNAME/todolist-maktabkhoone-/stargazers)  
-[![Forks](https://img.shields.io/github/forks/USERNAME/todolist-maktabkhoone-?style=social)](https://github.com/USERNAME/todolist-maktabkhoone-/network/members)
+[![Stars](https://img.shields.io/github/stars/USERNAME/todolist-maktabkhoone-?style=social)](https://github.com/DaniyalShahvali/todolist-maktabkhoone-/stargazers)  
+[![Forks](https://img.shields.io/github/forks/USERNAME/todolist-maktabkhoone-?style=social)](https://github.com/DaniyalShahvali/todolist-maktabkhoone-/network/members)
 
 ---
 
@@ -34,8 +34,40 @@
 
 ---
 
-## 🐍 اجرای پروژه
-```bash
-# اجرای برنامه
-python main.py
+# 📝 To-Do List Manager  
+### Final Project for Jadi's Python Course on Maktabkhooneh  
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![Stars](https://img.shields.io/github/stars/USERNAME/todolist-maktabkhoone-?style=social)](https://github.com/DaniyalShahvali/todolist-maktabkhoone-/stargazers)  
+[![Forks](https://img.shields.io/github/forks/USERNAME/todolist-maktabkhoone-?style=social)](https://github.com/DaniyalShahvali/todolist-maktabkhoone-/network/members)
+
+---
+
+## 🧾 Project Overview  
+This project is my **final assignment for the Python course by Jadi** on **Maktabkhooneh**.  
+It’s a simple yet functional **To-Do List Manager** built using **Object-Oriented Programming (OOP)** concepts in Python.
+
+The main goal of this project is to practice **OOP principles**, **CSV file handling**, and **data management** in Python.
+
+---
+
+## ⚙️ Features  
+- ➕ Add new tasks  
+- ❌ Delete existing tasks  
+- 👀 View all tasks  
+- 💾 Save tasks automatically to a CSV file  
+- 🔄 Load tasks automatically from a CSV file  
+- ⚡ Set task priority levels (High, Medium, Low)
+
+---
+
+## 🧩 Project Structure  
+- **`Task`** → Represents a single task (name, description, priority)  
+- **`ToDoList`** → Manages the entire list (add, delete, view, save, load)
+
+---
+
+
+
 
